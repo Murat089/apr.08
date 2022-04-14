@@ -1,0 +1,5 @@
+o = ["Murat", "Kanat", "Asel", "Adinay", "Kanykey"]
+s = '25'
+d = s.join(o) 
+print(d)
+

@@ -1,0 +1,3 @@
+o = []
+o.append('Murat, 2022, python')
+print(o)
